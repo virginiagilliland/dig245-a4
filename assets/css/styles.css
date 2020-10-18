@@ -2,9 +2,16 @@
 /* css */
 
 .grayband{
-  background-color: #d3d0cb
+  background-color: #d3d0cb;
 }
 
 .whiteband{
-  background-color: #ffffff
+  background-color: #ffffff;
+}
+
+.title {
+  color: #2e5266;
+  text-align: center;
+  font-family: Corbel;
+  font-size: 100px;
 }
