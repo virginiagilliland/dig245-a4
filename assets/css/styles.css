@@ -1,5 +1,13 @@
 
 /* css */
+body{
+  color: #2e5266;
+  font-family: Corbel;
+}
+
+h3 {
+  font-size: 40px;
+}
 
 .grayband{
   background-color: #d3d0cb;
@@ -10,8 +18,15 @@
 }
 
 .title {
-  color: #2e5266;
   text-align: center;
   font-family: Corbel;
-  font-size: 100px;
+  font-size: 85.5px;
+  font-weight:575;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
 }
