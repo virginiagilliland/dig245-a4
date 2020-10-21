@@ -3,6 +3,7 @@
 body{
   color: #2e5266;
   font-family: Corbel;
+  font-weight: 700;
 }
 
 h2 {
@@ -32,7 +33,7 @@ p {
 .title {
   text-align: center;
   font-size: 7em;
-  font-weight: 10em;
+  font-weight: 500;
 }
 
 .center {
@@ -40,4 +41,13 @@ p {
   margin-left: auto;
   margin-right: auto;
   width: 100%;
+}
+
+.piechart{
+  padding-left: 50px;
+}
+
+.yaleimage{
+  padding-top: 90px;
+  padding-left: 80px;
 }
